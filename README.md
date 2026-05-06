@@ -11,5 +11,4 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on Data Science and Data Analytics
 - 🌱 I’m currently learning Data science and Machine learning
 - 📫 How to reach me shandilyaarjit@gmail.com
-- ⚡ Leetcode: https://leetcode.com/Dennosity/
 
